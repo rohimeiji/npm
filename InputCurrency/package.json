@@ -1,0 +1,14 @@
+{
+  "name": "@rochimeiji/inputcurrency",
+  "version": "1.0.1",
+  "description": "Input Currency Vue Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rochim Eiji",
+  "license": "ISC",
+  "dependencies": {
+    "autonumeric": "^4.5.13"
+  }
+}
